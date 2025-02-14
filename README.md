@@ -1,12 +1,12 @@
-<h1 align="center">Hola 👋, soy Nicolás</h1>
-<h2>Sobre mí</h2>
+<h1 align="center">Hi 👋, I'm Nicolás</h1>
+<h2>About me</h2>
 
-- 💻 Estudiante de Ingeniería Civil Informática
-- 🌱 Aprendiendo sobre Desarrollo Web, Ciencia de datos, entre otros...
-- 🌐 Portafolio: [Link web](https://nicomellaor.github.io/presentacion/)
-- 📫 Contáctame: **nicolasmella2004@gmail.com**
+- 💻 I'm a **Computer Engineering** Student
+- 🌱 I'm currently learning about **Web Development**, **Data Science** and others...
+- 🌐 Portfolio: [URL](https://nicomellaor.github.io/)
+- 📫 Contact me: **nicolasmella2004@gmail.com**
 
-<h2>Tecnologías</h2>
+<h2>Technologies</h2>
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=python,java,js,html,css,bootstrap,react,laravel" />
