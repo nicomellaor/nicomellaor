@@ -9,6 +9,6 @@
 <h2>Technologies</h2>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,react,nodejs,laravel,java,mui,bootstrap,fastapi,js,html,css" />
+    <img src="https://skillicons.dev/icons?i=python,react,nodejs,laravel,java,androidstudio,mui,bootstrap,fastapi,js,html,css" />
   </a>
 </p>
