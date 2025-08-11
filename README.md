@@ -2,13 +2,13 @@
 <h2>About me</h2>
 
 - 💻 I'm a **Computer Engineering** Student
-- 🌱 I'm currently learning about **Web Development**, **Data Science** and others...
+- 🌱 I'm currently learning about **Web Development**, **Data Science** and other topics
 - 🌐 Portfolio: [Link](https://nicomellaor.github.io/)
 - 📫 Contact me: **nicolasmella2004@gmail.com**
 
-<h2>Technologies</h2>
+<h2>Main Technologies</h2>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,react,nodejs,laravel,java,androidstudio,mui,bootstrap,fastapi,js,html,css" />
+    <img src="https://skillicons.dev/icons?i=python,js,react,fastapi,nodejs,androidstudio,kotlin,bootstrap,mui" />
   </a>
 </p>
