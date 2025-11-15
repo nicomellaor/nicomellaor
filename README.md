@@ -9,6 +9,6 @@
 <h2>Main Technologies</h2>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,js,react,fastapi,nodejs,androidstudio,kotlin,bootstrap,mui" />
+    <img src="https://skillicons.dev/icons?i=python,js,ts,react,fastapi,nodejs,django,kotlin" />
   </a>
 </p>
