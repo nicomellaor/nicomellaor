@@ -25,7 +25,7 @@ Currently interested in **software engineering, backend systems, automation and 
 
 ## Links
 
-[Portfolio](https://nicomellaor.github.io/) · [LinkedIn](LINKEDIN_URL)
+[Portfolio](https://nicomellaor.github.io/) · [LinkedIn](https://www.linkedin.com/in/nicolas-mella-ortiz/)
 
 **Contact:** [nicolasmella2004@gmail.com](mailto:nicolasmella2004@gmail.com)
 
